@@ -21,3 +21,6 @@ IP-CIDR,172.29.1.0/24,no-resolve
 
 # 君の公益
 DOMAIN-SUFFIX,muyuan.do
+
+#
+DOMAIN-SUFFIX,22280502.xyz
