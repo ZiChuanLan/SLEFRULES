@@ -19,5 +19,3 @@ DOMAIN-SUFFIX,steamcontent.com
 # WMU
 IP-CIDR,172.29.1.0/24,no-resolve
 
-DOMAIN-SUFFIX,zichuanlan.top
-DOMAIN-SUFFIX,zclan.top
